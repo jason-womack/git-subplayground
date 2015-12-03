@@ -1,3 +1,3 @@
 # git-subplayground
 
-On Master
+On SDK-1 sub-module
